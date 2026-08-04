@@ -49,7 +49,7 @@
       <p>Uma interface estática inspirada na página do Spotify, desenvolvida com foco total em HTML e CSS avançado (Flexbox/Grid), aplicando conceitos de design responsivo e estruturação semântica.</p>
       <p><b>Tecnologias:</b> HTML5, CSS3</p>
       <p>
-        <a href="https://github.com/mandlerdev/Spotify-Reply">🔗 Repositório</a> | 
+        <a href="https://github.com/mandlerdev/Spotify-Reply">🔗 Spotify-Reply</a> | 
         <a href="LINK-DO-DEPLOY-SPOTIFY">🌐 Demo Online</a>
       </p>
     </td>
@@ -58,7 +58,7 @@
       <p>Interface de autenticação moderna focada na experiência do usuário (UX), desenvolvida com validações básicas em JavaScript e estilização limpa.</p>
       <p><b>Tecnologias:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Repositório</a> | 
+        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Tela de Login</a> | 
         <a href="LINK-DO-DEPLOY-LOGIN">🌐 Demo Online</a>
       </p>
     </td>
