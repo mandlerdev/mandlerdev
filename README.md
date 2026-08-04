@@ -13,10 +13,11 @@
 ---
 
 ### 💡 Sobre mim
+- 🎓 Cursando **Gestão de Tecnologia da Informação** na **Uniasselvi**, unindo a visão de negócios e gestão aos estudos técnicos.
 - 🔭 Atualmente estou aprofundando meus conhecimentos em **HTML5, CSS3 e JavaScript Moderno (ES6+)**.
 - 🌱 Minhas próximas metas de aprendizado são dominar **React** e **Node.js** para me tornar um Desenvolvedor Full-Stack.
 - 🐍 Já dei meus primeiros passos na programação estudando **Python**.
-- 🎯 **Objetivo:** Conseguir minha primeira oportunidade no mercado de tecnologia para crescer em equipe e entregar valor real através de projetos web.
+- 🎯 **Objetivo:** Conseguir minha primeira oportunidade no mercado de tecnologia para crescer em equipe e entregar valor real através de projetos.
 
 ---
 
