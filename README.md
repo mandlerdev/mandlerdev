@@ -58,7 +58,7 @@
       <p>Interface de autenticação moderna focada na experiência do usuário (UX), desenvolvida com validações básicas em JavaScript e estilização limpa.</p>
       <p><b>Tecnologias:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Tela de Login</a> | 
+        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Login-Frontend</a> | 
         <a href="LINK-DO-DEPLOY-LOGIN">🌐 Demo Online</a>
       </p>
     </td>
@@ -79,10 +79,10 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="SEU-LINK-DO-LINKEDIN" target="_blank">
+  <a href="[SEU-LINK-DO-LINKEDIN](https://www.linkedin.com/in/rafael-mandler/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:mandlerrafael123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
