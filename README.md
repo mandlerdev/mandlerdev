@@ -58,8 +58,8 @@
       <p>Interface de autenticação moderna focada na experiência do usuário (UX), desenvolvida com validações básicas em JavaScript e estilização limpa.</p>
       <p><b>Tecnologias:</b> HTML5, CSS3, JavaScript</p>
       <p>
-        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Login-Frontend</a> | 
-        <a href="LINK-DO-DEPLOY-LOGIN">🌐 Demo Online</a>
+        <a href="https://github.com/mandlerdev/Tela-de-Login">🔗 Login Repository</a> | 
+        <a href="https://mandlerdev.github.io/Tela-de-Login/">🌐 Login Deploy</a>
       </p>
     </td>
   </tr>
