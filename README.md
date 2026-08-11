@@ -49,8 +49,8 @@
       <p>Uma interface estática inspirada na página do Spotify, desenvolvida com foco total em HTML e CSS avançado (Flexbox/Grid), aplicando conceitos de design responsivo e estruturação semântica.</p>
       <p><b>Tecnologias:</b> HTML5, CSS3</p>
       <p>
-        <a href="https://github.com/mandlerdev/Spotify-Reply">🔗 Spotify-Reply</a> | 
-        <a href="LINK-DO-DEPLOY-SPOTIFY">🌐 Demo Online</a>
+        <a href="https://github.com/mandlerdev/Spotify-Reply">🔗 Repositório</a> | 
+        <a href="https://mandlerdev.github.io/Spotify-Reply/">🌐 Deploy do site</a>
       </p>
     </td>
     <td width="50%" valign="top">
