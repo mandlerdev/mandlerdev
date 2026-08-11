@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Desenvolvedor Front-End em transição/início de carreira | Apaixonado por transformar ideias em código limpo e interfaces responsivas.
+  🚀 Desenvolvedor FullStack em transição/início de carreira | Apaixonado por transformar ideias em código limpo e interfaces responsivas.
 </p>
 
 <br>
